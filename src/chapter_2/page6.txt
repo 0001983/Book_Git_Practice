@@ -2,3 +2,6 @@ found some cool things
 
 
 java has done a lot for me
+
+
+editor: yeah Java is cool 
